@@ -1,5 +1,8 @@
 /**
- * Create an Animal Choir simulator (rs_SR: Simulator ?ivotinjskog hora)
+ * 
+```
+#!php
+/*Create an Animal Choir simulator
  *
  * The task constraints are:
  *
@@ -35,3 +38,5 @@
  */
 
 TODO: Describe the class hierarchy
+
+```
